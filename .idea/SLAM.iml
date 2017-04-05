@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/pimple/pimple" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/silex/silex" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../2016-2017/STPAUL/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/pimple/pimple" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/silex/silex" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/STPAUL/app/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/STPAUL/composer.phar" />
+          <root url="phar://$MODULE_DIR$/STPAUL/phpunit4-4.phar" />
+          <root url="phar://$MODULE_DIR$/composer.phar" />
+          <root url="phar://$MODULE_DIR$/phpunit4-4.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/STPAUL/composer.phar" />
+          <root url="phar://$MODULE_DIR$/STPAUL/phpunit4-4.phar" />
+          <root url="phar://$MODULE_DIR$/composer.phar" />
+          <root url="phar://$MODULE_DIR$/phpunit4-4.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/silex/silex" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/composer" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/annotations" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/silex/silex" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/composer" />
+          <root url="file://$MODULE_DIR$/STPAUL/app/vendor/doctrine/annotations" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
